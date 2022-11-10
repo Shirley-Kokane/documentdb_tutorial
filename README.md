@@ -1,6 +1,7 @@
 # documentdb_tutorial
 This repository provides a short description on using DocumentDB for storing real time data and steps to create a Document DB cluster.
 
+# Install MongoShell in an EC2 instance
 
 To install the mongo shell on Amazon Linux, complete the following steps.
 
@@ -14,4 +15,10 @@ When it is complete, install the mongo shell by executing the following command:
 
 ```
 sudo yum install -y mongodb-org-shell
+```
+
+To encrypt data in transit, download the CA certificate for Amazon DocumentDB. See the following code:
+
+```
+wget https://s3.amazonaws.com/rds-downloads/rds-combined-ca-bundle.pem
 ```
