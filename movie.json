@@ -1,0 +1,842 @@
+[
+    {
+        "id": 1,
+        "user": 118971.0,
+        "time": "2022-07-31T03:19:04",
+        "movie": "harold+and+maude",
+        "year": 1971.0
+    },
+    {
+        "id": 2,
+        "user": 95456.0,
+        "time": "2022-07-31T09:23:39",
+        "movie": "dances+with+wolves",
+        "year": 1990.0
+    },
+    {
+        "id": 3,
+        "user": 81059.0,
+        "time": "2022-07-31T13:39:17",
+        "movie": "un+chien+andalou",
+        "year": 1929.0
+    },
+    {
+        "id": 4,
+        "user": 110380.0,
+        "time": "2022-07-31T17:03:47",
+        "movie": "cube",
+        "year": 1997.0
+    },
+    {
+        "id": 5,
+        "user": 134694.0,
+        "time": "2022-07-31T19:27:53",
+        "movie": "jumanji",
+        "year": 1995.0
+    },
+    {
+        "id": 6,
+        "user": 199.0,
+        "time": "2022-07-31T21:16:26",
+        "movie": "muppet+treasure+island",
+        "year": 1996.0
+    },
+    {
+        "id": 7,
+        "user": 112114.0,
+        "time": "2022-07-31T22:13:01",
+        "movie": "batman",
+        "year": 1989.0
+    },
+    {
+        "id": 8,
+        "user": 29125.0,
+        "time": "2022-07-31T23:08:53",
+        "movie": "pulp+fiction",
+        "year": 1994.0
+    },
+    {
+        "id": 9,
+        "user": 51595.0,
+        "time": "2022-07-31T23:43:35",
+        "movie": "braveheart",
+        "year": 1995.0
+    },
+    {
+        "id": 10,
+        "user": 93843.0,
+        "time": "2022-08-01T05:51:17",
+        "movie": "corpse+bride",
+        "year": 2005.0
+    },
+    {
+        "id": 11,
+        "user": 118971.0,
+        "time": "2022-08-01T13:38:56",
+        "movie": "risky+business",
+        "year": 1983.0
+    },
+    {
+        "id": 12,
+        "user": 46870.0,
+        "time": "2022-08-01T16:32:56",
+        "movie": "homeward+bound+ii+lost+in+san+francisco",
+        "year": 1996.0
+    },
+    {
+        "id": 13,
+        "user": 30595.0,
+        "time": "2022-08-01T19:15:49",
+        "movie": "end+of+days",
+        "year": 1999.0
+    },
+    {
+        "id": 14,
+        "user": 95456.0,
+        "time": "2022-08-01T21:53:10",
+        "movie": "austin+powers+the+spy+who+shagged+me",
+        "year": 1999.0
+    },
+    {
+        "id": 15,
+        "user": 90104.0,
+        "time": "2022-08-01T23:15:50",
+        "movie": "indiana+jones+and+the+last+crusade",
+        "year": 1989.0
+    },
+    {
+        "id": 16,
+        "user": 21081.0,
+        "time": "2022-08-02T01:35:03",
+        "movie": "the+net",
+        "year": 1995.0
+    },
+    {
+        "id": 17,
+        "user": 46870.0,
+        "time": "2022-08-02T10:44:38",
+        "movie": "star+wars",
+        "year": 1977.0
+    },
+    {
+        "id": 18,
+        "user": 78755.0,
+        "time": "2022-08-02T15:45:04",
+        "movie": "twister",
+        "year": 1996.0
+    },
+    {
+        "id": 19,
+        "user": 51595.0,
+        "time": "2022-08-02T17:08:43",
+        "movie": "batman+forever",
+        "year": 1995.0
+    },
+    {
+        "id": 20,
+        "user": 112114.0,
+        "time": "2022-08-02T18:09:13",
+        "movie": "back+to+the+future+part+iii",
+        "year": 1990.0
+    },
+    {
+        "id": 21,
+        "user": 81059.0,
+        "time": "2022-08-02T18:22:31",
+        "movie": "12+angry+men",
+        "year": 1957.0
+    },
+    {
+        "id": 22,
+        "user": 31644.0,
+        "time": "2022-08-02T18:56:32",
+        "movie": "being+john+malkovich",
+        "year": 1999.0
+    },
+    {
+        "id": 23,
+        "user": 21081.0,
+        "time": "2022-08-02T19:22:52",
+        "movie": "beauty+and+the+beast",
+        "year": 1991.0
+    },
+    {
+        "id": 24,
+        "user": 56829.0,
+        "time": "2022-08-02T23:05:46",
+        "movie": "road+house",
+        "year": 1989.0
+    },
+    {
+        "id": 25,
+        "user": 89207.0,
+        "time": "2022-08-03T02:22:50",
+        "movie": "ransom",
+        "year": 1996.0
+    },
+    {
+        "id": 26,
+        "user": 29125.0,
+        "time": "2022-08-03T16:09:40",
+        "movie": "rebel+without+a+cause",
+        "year": 1955.0
+    },
+    {
+        "id": 27,
+        "user": 67650.0,
+        "time": "2022-08-03T18:19:46",
+        "movie": "ace+ventura+pet+detective",
+        "year": 1994.0
+    },
+    {
+        "id": 28,
+        "user": 25807.0,
+        "time": "2022-08-03T20:27:11",
+        "movie": "x-men",
+        "year": 2000.0
+    },
+    {
+        "id": 29,
+        "user": 123817.0,
+        "time": "2022-08-03T21:54:30",
+        "movie": "the+portrait+of+a+lady",
+        "year": 1996.0
+    },
+    {
+        "id": 30,
+        "user": 95456.0,
+        "time": "2022-08-04T01:22:54",
+        "movie": "les+misrables",
+        "year": 1998.0
+    },
+    {
+        "id": 31,
+        "user": 160922.0,
+        "time": "2022-08-04T04:01:19",
+        "movie": "ghost",
+        "year": 1990.0
+    },
+    {
+        "id": 32,
+        "user": 112114.0,
+        "time": "2022-08-04T11:18:07",
+        "movie": "the+big+blue",
+        "year": 1988.0
+    },
+    {
+        "id": 33,
+        "user": 163822.0,
+        "time": "2022-08-04T15:33:40",
+        "movie": "for+love+or+money",
+        "year": 1993.0
+    },
+    {
+        "id": 34,
+        "user": 29125.0,
+        "time": "2022-08-04T19:18:23",
+        "movie": "gandhi",
+        "year": 1982.0
+    },
+    {
+        "id": 35,
+        "user": 65033.0,
+        "time": "2022-08-04T21:07:40",
+        "movie": "seabiscuit",
+        "year": 2003.0
+    },
+    {
+        "id": 36,
+        "user": 114450.0,
+        "time": "2022-08-04T22:05:57",
+        "movie": "the+lord+of+the+rings+the+fellowship+of+the+ring",
+        "year": 2001.0
+    },
+    {
+        "id": 37,
+        "user": 89207.0,
+        "time": "2022-08-04T23:45:21",
+        "movie": "romancing+the+stone",
+        "year": 1984.0
+    },
+    {
+        "id": 38,
+        "user": 56829.0,
+        "time": "2022-08-05T02:29:38",
+        "movie": "four+lions",
+        "year": 2010.0
+    },
+    {
+        "id": 39,
+        "user": 25807.0,
+        "time": "2022-08-05T03:30:19",
+        "movie": "while+you+were+sleeping",
+        "year": 1995.0
+    },
+    {
+        "id": 40,
+        "user": 131641.0,
+        "time": "2022-08-05T05:19:43",
+        "movie": "the+beverly+hillbillies",
+        "year": 1993.0
+    },
+    {
+        "id": 41,
+        "user": 153335.0,
+        "time": "2022-08-05T13:32:19",
+        "movie": "an+american+tail",
+        "year": 1986.0
+    },
+    {
+        "id": 42,
+        "user": 163822.0,
+        "time": "2022-08-05T17:49:46",
+        "movie": "krippendorfs+tribe",
+        "year": 1998.0
+    },
+    {
+        "id": 43,
+        "user": 35127.0,
+        "time": "2022-08-05T19:44",
+        "movie": "down+periscope",
+        "year": 1996.0
+    },
+    {
+        "id": 44,
+        "user": 93843.0,
+        "time": "2022-08-05T22:32:10",
+        "movie": "bad+boys+ii",
+        "year": 2003.0
+    },
+    {
+        "id": 45,
+        "user": 46870.0,
+        "time": "2022-08-06T01:26:53",
+        "movie": "the+hunchback+of+notre+dame",
+        "year": 1996.0
+    },
+    {
+        "id": 46,
+        "user": 40594.0,
+        "time": "2022-08-06T02:43:56",
+        "movie": "shaolin+soccer",
+        "year": 2001.0
+    },
+    {
+        "id": 47,
+        "user": 118971.0,
+        "time": "2022-08-06T07:06:20",
+        "movie": "broadcast+news",
+        "year": 1987.0
+    },
+    {
+        "id": 48,
+        "user": 27011.0,
+        "time": "2022-08-06T12:35:23",
+        "movie": "driven",
+        "year": 2001.0
+    },
+    {
+        "id": 49,
+        "user": 65033.0,
+        "time": "2022-08-06T15:28:26",
+        "movie": "the+postman",
+        "year": 1994.0
+    },
+    {
+        "id": 50,
+        "user": 65033.0,
+        "time": "2022-08-06T18:02:08",
+        "movie": "malcolm+x",
+        "year": 1992.0
+    },
+    {
+        "id": 51,
+        "user": 90104.0,
+        "time": "2022-08-06T20:23:58",
+        "movie": "south+park+bigger_+longer++uncut",
+        "year": 1999.0
+    },
+    {
+        "id": 52,
+        "user": 157621.0,
+        "time": "2022-08-06T22:12:24",
+        "movie": "the+crossing+guard",
+        "year": 1995.0
+    },
+    {
+        "id": 53,
+        "user": 29125.0,
+        "time": "2022-08-07T02:37:21",
+        "movie": "ulees+gold",
+        "year": 1997.0
+    },
+    {
+        "id": 54,
+        "user": 102725.0,
+        "time": "2022-08-07T15:41:14",
+        "movie": "the+sting",
+        "year": 1973.0
+    },
+    {
+        "id": 55,
+        "user": 6992.0,
+        "time": "2022-08-07T18:04:48",
+        "movie": "mission+impossible",
+        "year": 1996.0
+    },
+    {
+        "id": 56,
+        "user": 71323.0,
+        "time": "2022-08-07T19:11:26",
+        "movie": "crazy",
+        "year": 2005.0
+    },
+    {
+        "id": 57,
+        "user": 102725.0,
+        "time": "2022-08-07T19:47:23",
+        "movie": "dog+day+afternoon",
+        "year": 1975.0
+    },
+    {
+        "id": 58,
+        "user": 67650.0,
+        "time": "2022-08-07T22:56:19",
+        "movie": "batman",
+        "year": 1989.0
+    },
+    {
+        "id": 59,
+        "user": 81059.0,
+        "time": "2022-08-08T00:37:25",
+        "movie": "rear+window",
+        "year": 1954.0
+    },
+    {
+        "id": 60,
+        "user": 153335.0,
+        "time": "2022-08-08T04:22:26",
+        "movie": "grease",
+        "year": 1978.0
+    },
+    {
+        "id": 61,
+        "user": 31921.0,
+        "time": "2022-08-08T12:24:43",
+        "movie": "fantastic+mr.+fox",
+        "year": 2009.0
+    },
+    {
+        "id": 62,
+        "user": 157621.0,
+        "time": "2022-08-08T17:54:47",
+        "movie": "firefox",
+        "year": 1982.0
+    },
+    {
+        "id": 63,
+        "user": 126991.0,
+        "time": "2022-08-08T18:27:06",
+        "movie": "outbreak",
+        "year": 1995.0
+    },
+    {
+        "id": 64,
+        "user": 21081.0,
+        "time": "2022-08-08T20:12:47",
+        "movie": "terminator+2+judgment+day",
+        "year": 1991.0
+    },
+    {
+        "id": 65,
+        "user": 29125.0,
+        "time": "2022-08-08T21:27",
+        "movie": "courage+under+fire",
+        "year": 1996.0
+    },
+    {
+        "id": 66,
+        "user": 19850.0,
+        "time": "2022-08-08T22:55:41",
+        "movie": "sabrina",
+        "year": 1954.0
+    },
+    {
+        "id": 67,
+        "user": 10942.0,
+        "time": "2022-08-09T01:11:24",
+        "movie": "austin+powers+international+man+of+mystery",
+        "year": 1997.0
+    },
+    {
+        "id": 68,
+        "user": 27011.0,
+        "time": "2022-08-09T07:02:42",
+        "movie": "arachnophobia",
+        "year": 1990.0
+    },
+    {
+        "id": 69,
+        "user": 112114.0,
+        "time": "2022-08-09T09:48:38",
+        "movie": "legends+of+the+fall",
+        "year": 1994.0
+    },
+    {
+        "id": 70,
+        "user": 134694.0,
+        "time": "2022-08-09T10:36:36",
+        "movie": "down+periscope",
+        "year": 1996.0
+    },
+    {
+        "id": 71,
+        "user": 6992.0,
+        "time": "2022-08-09T12:06:13",
+        "movie": "the+young+poisoners+handbook",
+        "year": 1995.0
+    },
+    {
+        "id": 72,
+        "user": 120832.0,
+        "time": "2022-08-09T15:31:18",
+        "movie": "the+machinist",
+        "year": 2004.0
+    },
+    {
+        "id": 73,
+        "user": 127909.0,
+        "time": "2022-08-09T18:33:28",
+        "movie": "stargate",
+        "year": 1994.0
+    },
+    {
+        "id": 74,
+        "user": 114450.0,
+        "time": "2022-08-09T19:34:50",
+        "movie": "the+sixth+sense",
+        "year": 1999.0
+    },
+    {
+        "id": 75,
+        "user": 19850.0,
+        "time": "2022-08-09T21:05:34",
+        "movie": "the+green+mile",
+        "year": 1999.0
+    },
+    {
+        "id": 76,
+        "user": 134694.0,
+        "time": "2022-08-09T21:42:47",
+        "movie": "stargate",
+        "year": 1994.0
+    },
+    {
+        "id": 77,
+        "user": 110380.0,
+        "time": "2022-08-09T22:54:39",
+        "movie": "edtv",
+        "year": 1999.0
+    },
+    {
+        "id": 78,
+        "user": 13127.0,
+        "time": "2022-08-09T23:36:57",
+        "movie": "500+days+of+summer",
+        "year": 2009.0
+    },
+    {
+        "id": 79,
+        "user": 89207.0,
+        "time": "2022-08-10T00:44:28",
+        "movie": "treasure+planet",
+        "year": 2002.0
+    },
+    {
+        "id": 80,
+        "user": 199.0,
+        "time": "2022-08-10T01:08:44",
+        "movie": "anne+frank+remembered",
+        "year": 1995.0
+    },
+    {
+        "id": 81,
+        "user": 51595.0,
+        "time": "2022-08-10T03:19:11",
+        "movie": "apollo+13",
+        "year": 1995.0
+    },
+    {
+        "id": 82,
+        "user": 160922.0,
+        "time": "2022-08-10T03:48:31",
+        "movie": "groundhog+day",
+        "year": 1993.0
+    },
+    {
+        "id": 83,
+        "user": 25807.0,
+        "time": "2022-08-10T04:20:11",
+        "movie": "honey+i+blew+up+the+kid",
+        "year": 1992.0
+    },
+    {
+        "id": 84,
+        "user": 78755.0,
+        "time": "2022-08-10T08:39:52",
+        "movie": "four+weddings+and+a+funeral",
+        "year": 1994.0
+    },
+    {
+        "id": 85,
+        "user": 166834.0,
+        "time": "2022-08-10T13:52:56",
+        "movie": "big+trouble+in+little+china",
+        "year": 1986.0
+    },
+    {
+        "id": 86,
+        "user": 45637.0,
+        "time": "2022-08-10T14:15:39",
+        "movie": "panic+room",
+        "year": 2002.0
+    },
+    {
+        "id": 87,
+        "user": 65033.0,
+        "time": "2022-08-10T15:36:22",
+        "movie": "superman",
+        "year": 1978.0
+    },
+    {
+        "id": 88,
+        "user": 166834.0,
+        "time": "2022-08-10T16:39:51",
+        "movie": "inception",
+        "year": 2010.0
+    },
+    {
+        "id": 89,
+        "user": 114450.0,
+        "time": "2022-08-10T18:25:26",
+        "movie": "spaceballs",
+        "year": 1987.0
+    },
+    {
+        "id": 90,
+        "user": 113642.0,
+        "time": "2022-08-10T20:23:56",
+        "movie": "the+fugitive",
+        "year": 1993.0
+    },
+    {
+        "id": 91,
+        "user": 51595.0,
+        "time": "2022-08-10T21:10:57",
+        "movie": "die+hard+with+a+vengeance",
+        "year": 1995.0
+    },
+    {
+        "id": 92,
+        "user": 45055.0,
+        "time": "2022-08-10T22:26:07",
+        "movie": "gran+torino",
+        "year": 2008.0
+    },
+    {
+        "id": 93,
+        "user": 141755.0,
+        "time": "2022-08-10T23:01:55",
+        "movie": "inherit+the+wind",
+        "year": 1960.0
+    },
+    {
+        "id": 94,
+        "user": 10942.0,
+        "time": "2022-08-11T00:25:05",
+        "movie": "braveheart",
+        "year": 1995.0
+    },
+    {
+        "id": 95,
+        "user": 95456.0,
+        "time": "2022-08-11T04:46:37",
+        "movie": "tootsie",
+        "year": 1982.0
+    },
+    {
+        "id": 96,
+        "user": 46870.0,
+        "time": "2022-08-11T05:32:48",
+        "movie": "mission+impossible",
+        "year": 1996.0
+    },
+    {
+        "id": 97,
+        "user": 19850.0,
+        "time": "2022-08-11T09:46:05",
+        "movie": "the+matrix+reloaded",
+        "year": 2003.0
+    },
+    {
+        "id": 98,
+        "user": 126991.0,
+        "time": "2022-08-11T12:21:38",
+        "movie": "interview+with+the+vampire",
+        "year": 1994.0
+    },
+    {
+        "id": 99,
+        "user": 126991.0,
+        "time": "2022-08-11T16:55:32",
+        "movie": "dave",
+        "year": 1993.0
+    },
+    {
+        "id": 100,
+        "user": 95456.0,
+        "time": "2022-08-11T19:10:30",
+        "movie": "rabbit-proof+fence",
+        "year": 2002.0
+    },
+    {
+        "id": 101,
+        "user": 45637.0,
+        "time": "2022-08-11T20:04:15",
+        "movie": "repo+man",
+        "year": 1984.0
+    },
+    {
+        "id": 102,
+        "user": 67650.0,
+        "time": "2022-08-11T20:39:14",
+        "movie": "the+firm",
+        "year": 1993.0
+    },
+    {
+        "id": 103,
+        "user": 108775.0,
+        "time": "2022-08-11T23:51:19",
+        "movie": "sling+blade",
+        "year": 1996.0
+    },
+    {
+        "id": 104,
+        "user": 10942.0,
+        "time": "2022-08-11T23:59:32",
+        "movie": "contact",
+        "year": 1997.0
+    },
+    {
+        "id": 105,
+        "user": 127909.0,
+        "time": "2022-08-12T00:21:15",
+        "movie": "batman+forever",
+        "year": 1995.0
+    },
+    {
+        "id": 106,
+        "user": 93843.0,
+        "time": "2022-08-12T00:31:54",
+        "movie": "across+the+universe",
+        "year": 2007.0
+    },
+    {
+        "id": 107,
+        "user": 27011.0,
+        "time": "2022-08-12T01:39:28",
+        "movie": "american+pie",
+        "year": 1999.0
+    },
+    {
+        "id": 108,
+        "user": 199.0,
+        "time": "2022-08-12T02:08:17",
+        "movie": "the+birdcage",
+        "year": 1996.0
+    },
+    {
+        "id": 109,
+        "user": 157621.0,
+        "time": "2022-08-12T05:45:30",
+        "movie": "anaconda",
+        "year": 1997.0
+    },
+    {
+        "id": 110,
+        "user": 6992.0,
+        "time": "2022-08-12T09:36:19",
+        "movie": "kids+in+the+hall+brain+candy",
+        "year": 1996.0
+    },
+    {
+        "id": 111,
+        "user": 113642.0,
+        "time": "2022-08-12T09:59:43",
+        "movie": "american+beauty",
+        "year": 1999.0
+    },
+    {
+        "id": 112,
+        "user": 34342.0,
+        "time": "2022-08-12T12:56:04",
+        "movie": "the+rock",
+        "year": 1996.0
+    },
+    {
+        "id": 113,
+        "user": 72300.0,
+        "time": "2022-08-12T13:28:47",
+        "movie": "star+trek+vi+the+undiscovered+country",
+        "year": 1991.0
+    },
+    {
+        "id": 114,
+        "user": 163822.0,
+        "time": "2022-08-12T16:49:49",
+        "movie": "mulan",
+        "year": 1998.0
+    },
+    {
+        "id": 115,
+        "user": 19850.0,
+        "time": "2022-08-12T18:05:58",
+        "movie": "anna+and+the+king",
+        "year": 1999.0
+    },
+    {
+        "id": 116,
+        "user": 78755.0,
+        "time": "2022-08-12T18:56:40",
+        "movie": "waterworld",
+        "year": 1995.0
+    },
+    {
+        "id": 117,
+        "user": 46870.0,
+        "time": "2022-08-12T20:45:19",
+        "movie": "return+of+the+jedi",
+        "year": 1983.0
+    },
+    {
+        "id": 118,
+        "user": 89207.0,
+        "time": "2022-08-12T21:10:45",
+        "movie": "first+knight",
+        "year": 1995.0
+    },
+    {
+        "id": 119,
+        "user": 157621.0,
+        "time": "2022-08-12T22:07:18",
+        "movie": "fiddler+on+the+roof",
+        "year": 1971.0
+    },
+    {
+        "id": 120,
+        "user": 120832.0,
+        "time": "2022-08-12T22:44:56",
+        "movie": "the+wrestler",
+        "year": 2008.0
+    }
+]
