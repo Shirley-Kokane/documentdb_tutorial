@@ -1,6 +1,19 @@
 # documentdb_tutorial
 This repository provides a short description on using DocumentDB for storing real time data and steps to create a Document DB cluster.
 
+# Create Security Groups
+
+We will setup 2 security groups, the first security group (demoEC2) allows you to SSH into your EC2 instance from your local machine (client). The second security group (demoDB) enables you to connect to your Amazon DocumentDB cluster on port 27017 (the default port for Amazon DocumentDB) from your EC2 instance. 
+
+# Create EC2 Instance
+
+The next step is to create an EC2 instance in the same Region and VPC that you use to provision your Amazon DocumentDB cluster.
+
+# Create DocumentDB cluster
+
+The next step is to create the Document DB cluster using the demoDB security group we created to get the required access to the cluster. 
+
+
 # Install MongoShell in an EC2 instance
 
 To install the mongo shell on Amazon Linux, complete the following steps.
