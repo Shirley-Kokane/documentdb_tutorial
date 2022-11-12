@@ -19,9 +19,9 @@ with open("movie.json") as outfile:
     SEED_DATA = json.load(outfile)
 
 #Get Amazon DocumentDB ceredentials from environment variables
-username = os.environ.get("docbUser")#dbt
-password = os.environ.get("docdbPass")#"stormborn"
-clusterendpoint = "docdb-2022-11-07-22-40-56.cluster-cbya07tevozy.us-east-1.docdb.amazonaws.com"#os.environ.get("docdbEndpoint")
+username = os.environ.get("docbUser")
+password = os.environ.get("docdbPass")
+clusterendpoint = os.environ.get("docdbEndpoint")
 
 #print('check',SEED_DATA[0])
 def main():
